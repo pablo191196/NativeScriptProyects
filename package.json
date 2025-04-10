@@ -1,0 +1,23 @@
+{
+  "name": "PokeAppTest",
+  "main": "src/app.ts",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@nativescript-community/ui-material-core": "^7.2.71",
+    "@nativescript/core": "~8.9.0",
+    "nativescript-vue": "^3.0.0-rc.3",
+    "pinia": "^3.0.1",
+    "rxjs": "^7.8.2"
+  },
+  "devDependencies": {
+    "@nativescript/android": "~8.9.0",
+    "@nativescript/ios": "~8.9.0",
+    "@nativescript/tailwind": "^4.0.0",
+    "@nativescript/types": "~8.9.0",
+    "@nativescript/webpack": "~5.0.0",
+    "tailwindcss": "~4.0.9",
+    "typescript": "~5.7.3",
+    "vue": "^3.3.4"
+  }
+}
